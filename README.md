@@ -1,12 +1,12 @@
-# expoprimus
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<title>Expoprimus</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"
 </head>
 <body>
-<h1>this is a jojo fan</h1>
-<p>cock</p>
-  <img src="bollocks_now_95.gif">
+    <h1>I'm a jojo fan</h1>
+    <p>i also like make maps in hammer and shit</p>
 </body>
 </html>
